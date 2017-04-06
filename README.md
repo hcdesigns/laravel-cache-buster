@@ -8,7 +8,7 @@ Invalidate cache + blade view cache by posting to a URL.
 Require this package with composer:
 
 ```shell
-composer require barryvdh/laravel-debugbar
+composer require hcdesigns/laravel-cache-buster
 ```
 
 Add this package to your project in app.php:
