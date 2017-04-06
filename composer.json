@@ -1,0 +1,11 @@
+{
+    "name": "hcdesigns/laravel-cache-buster",
+    "description": "Laravel cache buster",
+    "authors": [
+        {
+            "name": "Harvey Chow",
+            "email": "harvey@hcdesigns.nl"
+        }
+    ],
+    "require": {}
+}
