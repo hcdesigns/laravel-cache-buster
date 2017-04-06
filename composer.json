@@ -7,5 +7,10 @@
     }],
     "license": "MIT",
     "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hcdesigns\\LaravelCacheBuster\\": "src"
+        }
+    },
     "minimum-stability": "stable"
 }

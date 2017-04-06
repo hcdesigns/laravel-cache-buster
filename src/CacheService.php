@@ -1,4 +1,5 @@
 <?php
+
 namespace Hcdesigns\LaravelCacheBuster;
 
 use Cache;

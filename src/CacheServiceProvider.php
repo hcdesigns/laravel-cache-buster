@@ -2,7 +2,6 @@
 
 namespace Hcdesigns\LaravelCacheBuster;
 
-use Route;
 use Illuminate\Support\ServiceProvider;
 
 class CacheServiceProvider extends ServiceProvider
