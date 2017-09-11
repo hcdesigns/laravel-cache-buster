@@ -1,7 +1,5 @@
 # Laravel Cache Buster
 
-*Work in progress*
-
 Invalidate cache + blade view cache by posting to a URL.
 
 ## Installation
